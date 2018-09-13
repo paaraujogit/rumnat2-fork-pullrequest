@@ -1,4 +1,3 @@
-package pa.calc;
 
 public class DAOper {
 	public static void main(String[] args) {
